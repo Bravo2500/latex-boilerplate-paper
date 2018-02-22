@@ -46,6 +46,10 @@ This runs [*pdflatex*, *biber*, *pdflatex*, *pdflatex*], a command that is avail
 
 Issues or new features can be reported via the GitHub issue tracker. Please make sure your issue or feature has not yet been reported by anyone else before submitting a new one.
 
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
+
 ## License
 
 LaTex Boilerplate is open-sourced software licensed under the [MIT license](https://github.com/tijme/latex-boilerplate-paper/blob/master/LICENSE.md).
